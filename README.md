@@ -4,7 +4,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividad
 
 # Índice
 
-* [Projeto](#projeto (API))
+* [Projeto](#o-projeto)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
@@ -15,7 +15,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividad
 * [Competências Desenvolvidas](#competências-desenvolvidas)
 
 
-# Projeto (API) 
+# O Projeto
 Este projeto tem como objetivo ...
 
 
