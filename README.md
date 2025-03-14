@@ -15,7 +15,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividad
 * [Competências Desenvolvidas](#competências-desenvolvidas)
 
 
-# O Projeto
+# Projeto
 Este projeto tem como objetivo ...
 
 
