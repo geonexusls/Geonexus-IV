@@ -23,12 +23,14 @@ Este projeto tem como objetivo ...
 # Equipe
 |    Função     |           Nome                        |                                                                                                                                                      LinkedIn                                                                                                                                                     |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner| Fernanda Andrade | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-andrade-a130b1212?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) |
-| Scrum Master | Lucas Monteiro | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-monteiro-07a519217?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
+| Product Owner | Raíssa Nunes | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ra%C3%ADssa-nunes-corr%C3%AAa-aba11622a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
+| Scrum Master | Lucas Matheus | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-matheus-1143b2186?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
+| Developer | Fernanda Andrade | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-andrade-a130b1212?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) |
+| Developer | Lucas Monteiro | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-monteiro-07a519217?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
 | Developer | Evelyn Melo | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/evelynpmelo?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
 | Developer | Gabriela de Avila | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-%C3%A1vila-296a54135/) |
-| Developer | Lucas Matheus | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-matheus-1143b2186?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
-| Developer | Raíssa Nunes | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ra%C3%ADssa-nunes-corr%C3%AAa-aba11622a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
+
+
 
 ## Job Rotation 
 
@@ -91,11 +93,11 @@ Criar base de dados relacional e Dashboard que permita:
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Backlog de Produto+GitHub+Jira| 27/09/2024 | Concluído | [Ver Relatório](https://github.com/geonexusls/API-III-SEMESTRE/tree/main/Documentos/Relat%C3%B3rios)|
-|Sprint 1| xx/xx/xxxx | Em breve | [Ver Relatório](https://github.com/geonexusls/API-III-SEMESTRE/tree/main/Documentos/Relat%C3%B3rios)| 
+|Sprint 1| xx/xx/xxxx | Em breve | [Ver Relatório](https://github.com/geonexusls/API-III-SEMESTRE/tree/main/Documentos/Relat%C3%B3rios)|
 |Sprint 2| xx/xx/xxxx | Em breve | [Ver Relatório](https://github.com/geonexusls/API-III-SEMESTRE/tree/main/Documentos/Relat%C3%B3rios)| 
-|Sprint 3| xx/xx/xxxx | Em breve | [Ver Relatório](https://github.com/geonexusls/API-III-SEMESTRE/tree/main/Documentos/Relat%C3%B3rios)|
-|Feira de Soluções| xx/xx/xxxx | Em breve | [Ver Relatório](https://github.com/geonexusls/API-III-SEMESTRE/tree/main/Documentos/Relat%C3%B3rios)| 
+|Sprint 3| xx/xx/xxxx | Em breve | [Ver Relatório](https://github.com/geonexusls/API-III-SEMESTRE/tree/main/Documentos/Relat%C3%B3rios)| 
+|Sprint 4| xx/xx/xxxx | Em breve | [Ver Relatório](https://github.com/geonexusls/API-III-SEMESTRE/tree/main/Documentos/Relat%C3%B3rios)|
+
 
 # Protótipos 
 ## Protótipo 
