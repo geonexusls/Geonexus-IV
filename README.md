@@ -38,9 +38,9 @@ Este projeto tem como objetivo ...
 
 | Tarefa                      | Responsável           |
 |-----------------------------|-----------------------|
-| Example                     | Fernanda + Evelyn     |
-| Example                     | Raíssa + Lucas M.     |
-| Example                     | Gabriela + Lucas N.   |
+| Base de Dados em SQL        | Evelyn + Raíssa       |
+| Limpeza de Dados em Python  | Lucas N. + Fernanda   |
+| Protótipo em Power BI       | Lucas M. + Gabriela   |
 
 ### Sprint 2
 
