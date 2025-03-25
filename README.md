@@ -93,10 +93,10 @@ Criar base de dados relacional e Dashboard que permita:
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Sprint 1| xx/xx/xxxx | Em breve | [Ver Relatório](https://github.com/geonexusls/API-III-SEMESTRE/tree/main/Documentos/Relat%C3%B3rios)|
-|Sprint 2| xx/xx/xxxx | Em breve | [Ver Relatório](https://github.com/geonexusls/API-III-SEMESTRE/tree/main/Documentos/Relat%C3%B3rios)| 
-|Sprint 3| xx/xx/xxxx | Em breve | [Ver Relatório](https://github.com/geonexusls/API-III-SEMESTRE/tree/main/Documentos/Relat%C3%B3rios)| 
-|Sprint 4| xx/xx/xxxx | Em breve | [Ver Relatório](https://github.com/geonexusls/API-III-SEMESTRE/tree/main/Documentos/Relat%C3%B3rios)|
+|Sprint 1| 14/03/2025 | Em andamento | [Ver Relatório] |
+|Sprint 2| 04/04/2025 | Em breve | [Ver Relatório] | 
+|Sprint 3| 25/04/2025 | Em breve | [Ver Relatório] | 
+|Sprint 4| 29/05/2025 | Em breve | [Ver Relatório] |
 
 
 # Protótipos 
