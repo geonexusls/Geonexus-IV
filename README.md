@@ -29,6 +29,7 @@ Este projeto tem como objetivo ...
 | Developer | Lucas Monteiro | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-monteiro-07a519217?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
 | Developer | Evelyn Melo | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/evelynpmelo?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
 | Developer | Gabriela de Avila | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-%C3%A1vila-296a54135/) |
+| Developer | Ana Elisa Costa | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-elisa-costa-a9a32122/) |
 
 
 
