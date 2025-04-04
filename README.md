@@ -27,6 +27,8 @@ API 4° Semestre - Logística Noturno
 
 :small_blue_diamond: [Tecnologias Utilizadas](#tecnologias-utilizadas)
 
+:small_blue_diamond: [Datas das Sprints](#sprints)
+
 :small_blue_diamond: [Requisitos](#requisitos)
 
 :small_blue_diamond: [Backlog do Produto](#Backlog-do-produto)
