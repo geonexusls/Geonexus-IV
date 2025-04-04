@@ -152,18 +152,21 @@ Sprint | Previsão de Conclusão | Status|
 
 # Requisitos
 
-* Requisitos funcionais 
->...
->...
->...
->...
+### Requisitos funcionais 
+- Segmentação por terminal
+- Ranking por eficiência
+- Busca com filtros personalizados
+- Painel de estatísticas interativo
+- Análise de tempos de operação e paradas portuárias
+- Análise de cargas movimentadas
 
  
-* Requisitos não funcionais
->...
->...
->...
->...
+### Requisitos não funcionais
+- Interface com navegação intuitiva
+- Sistema responsivo
+- Boa performance na apresentação dos dados
+- Confiabilidade nas informações exibidas
+- Facilidade de manutenção futura
   
 # Backlog do produto
  
@@ -184,7 +187,7 @@ Sprint | Previsão de Conclusão | Status|
 
 ### 4ª - Sprint
 
-### Feira de Soluções - Sprint
+### Feira de Soluções 
 
 EM BREVE
 
@@ -203,6 +206,9 @@ EM BREVE
  
 ### 3ª Sprint
 
+
+
+### 3ª Sprint
 
 
 
