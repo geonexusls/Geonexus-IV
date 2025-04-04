@@ -1,10 +1,25 @@
-# Aprendizado por Projeto Integrador (API) 
+# ANÁLISE DE EFICIÊNCIA DE TERMINAIS PORTUÁRIOS
+
+## Objetivo
+Este projeto tem como objetivo desenvolver uma plataforma de BI que disponha de informações sobre a eficiência portuárias nos anos de ? a ? com base no tempo de processamento nos portos do Brasil e dados específicos do setor.
+
+## Aprendizado por Projeto Integrador (API) 
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividade, autonomia, colaboração e entrega de resultados dos estudantes envolvidos.
 
+<p align="center"> 
+API 4° Semestre - Logística Noturno
+</p> 
+  
+<p align="center">   
+ <img src="https://img.shields.io/badge/Status%3A-EM ANDAMENTO-blue"/>
+ <a href="http://fatecsjc-prd.azurewebsites.net/"><img src="https://img.shields.io/badge/Instituição%3A-FATEC-red"/></a>
+</p>
+
+
 # Índice
 
-* [Projeto](#o-projeto)
+* [Projeto](#ANÁLISE-DE-EFICIÊNCIA-DE-TERMINAIS-PORTUÁRIOS)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
@@ -13,10 +28,6 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividad
 * [Backlog das Sprints](#Backlog-das-sprints)
 * [Burndown](#Burndown)
 * [Competências Desenvolvidas](#competências-desenvolvidas)
-
-
-# Projeto
-Este projeto tem como objetivo ...
 
 
 
@@ -33,41 +44,13 @@ Este projeto tem como objetivo ...
 
 
 
-
-## Job Rotation 
-
-### Sprint 1
-
-| Tarefa                      | Responsável           |
-|-----------------------------|-----------------------|
-| Base de Dados em SQL        | Evelyn + Raíssa       |
-| Limpeza de Dados em Python  | Lucas N. + Fernanda   |
-| Protótipo em Power BI       | Lucas M. + Gabriela   |
-
-### Sprint 2
-
-| Tarefa                      | Responsável           |
-|-----------------------------|-----------------------|
-| Example                     | Fernanda + Evelyn     |
-| Example                     | Raíssa + Lucas M.     |
-| Example                     | Gabriela + Lucas N.   |
-
-### Sprint 3
-
-| Tarefa                      | Responsável           |
-|-----------------------------|-----------------------|
-| Example                     | Fernanda + Evelyn     |
-| Example                     | Raíssa + Lucas M.     |
-| Example                     | Gabriela + Lucas N.   |
-
-
-# Objetivo do Projeto
+# Objetivos específcos do projeto
 Criar base de dados relacional e Dashboard que permita:
-* (I) ...
+* (I) Analisar a eficiência portuária dos terminais.
 
-* (II) ...
+* (II) Analisar as principais cargas movimentadas.
 
-* (III) ...
+* (III) Analisar a produtividade entre os portos.
  
 ## Tecnologias Utilizadas
 
@@ -87,31 +70,74 @@ Criar base de dados relacional e Dashboard que permita:
 > Python
   
  ### Tecnologias da Informação
- > Pacote Office
+> Pacote Office
 >
-> Chat GPT
+> ChatGPT
+>
+> DeepSeek
 
 # Sprints
 
-Sprint | Previsão | Status| Histórico|
-|------|--------|------|--------|
-|Sprint 1| 14/03/2025 | Em andamento | [Ver Relatório] |
-|Sprint 2| 04/04/2025 | Em breve | [Ver Relatório] | 
-|Sprint 3| 25/04/2025 | Em breve | [Ver Relatório] | 
-|Sprint 4| 29/05/2025 | Em breve | [Ver Relatório] |
+Sprint | Previsão de Conclusão | Status|
+|------|--------|------|
+|Sprint 1| 04/04/2025 | <img src="https://img.shields.io/badge/Status%3A-CONCLUÍDA-green"/> |
+|Sprint 2| 25/04/2025 | <img src="https://img.shields.io/badge/Status%3A-EM ANDAMENTO-blue"/> |
+|Sprint 3| 16/05/2025 | <img src="https://img.shields.io/badge/Status%3A-EM BREVE-yellow"/> |
+|Feira de Soluções | 29/05/2025 | <img src="https://img.shields.io/badge/Status%3A-EM BREVE-yellow"/> |
+|Sprint 4| 27/06/2025 | <img src="https://img.shields.io/badge/Status%3A-EM BREVE-yellow"/> |
+
+
+## Job Rotation 
+
+### Sprint 1 
+
+| Tarefa                      | Responsável           |
+|-----------------------------|-----------------------|
+| Base de Dados em SQL        | Evelyn + Raíssa       |
+| Limpeza de Dados em Python  | Lucas N. + Fernanda   |
+| Protótipo em Power BI       | Lucas M. + Gabriela   |
+
+### Sprint 2
+
+| Tarefa                      | Responsável           |
+|-----------------------------|-----------------------|
+| _A definir_                 | Fernanda + Evelyn     |
+| _A definir_                 | Raíssa + Lucas M.     |
+| _A definir_                 | Gabriela + Lucas N.   |
+
+### Sprint 3
+
+| Tarefa                      | Responsável           |
+|-----------------------------|-----------------------|
+| _A definir_                 | Fernanda + Evelyn     |
+| _A definir_                 | Raíssa + Lucas M.     |
+| _A definir_                 | Gabriela + Lucas N.   |
+
+### Sprint 4
+
+| Tarefa                      | Responsável           |
+|-----------------------------|-----------------------|
+| _A definir_                 | Fernanda + Evelyn     |
+| _A definir_                 | Raíssa + Lucas M.     |
+| _A definir_                 | Gabriela + Lucas N.   |
+
 
 
 # Protótipos 
-## Protótipo 
+
+## Protótipo Sprint 1
 
 
 
-## Protótipo 
+## Protótipo Sprint 2
 
 
 
-## Protótipo 
+## Protótipo Sprint 3
 
+
+
+## Protótipo Sprint 4
 
 
 # Requisitos
