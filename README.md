@@ -180,7 +180,7 @@ Sprint | Previsão de Conclusão | Status|
 
 
  ### 1ª - Sprint
-![Texto alternativo](9AADD58B-A8A6-4F37-9467-3D84D9DAFBA8.png)
+![Texto alternativo](https://github.com/geonexusls/Geonexus-IV/blob/1ff6829465f83f221fe2df7d5974ee5881d863d9/%7B9AADD58B-A8A6-4F37-9467-3D84D9DAFBA8%7D.png?raw=true)
 
  ### 2ª - Sprint
 
