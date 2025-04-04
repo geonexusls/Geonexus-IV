@@ -23,7 +23,7 @@ API 4° Semestre - Logística Noturno
 
 :small_blue_diamond: [Equipe](#equipe)
 
-:small_blue_diamond: [Objetivo do Projeto](#objetivo)
+:small_blue_diamond: [Objetivos Específicos](#objetivos-específicos-do-projeto)
 
 :small_blue_diamond: [Tecnologias Utilizadas](#tecnologias-utilizadas)
 
@@ -54,7 +54,7 @@ API 4° Semestre - Logística Noturno
 
 
 
-# Objetivos específcos do projeto
+# Objetivos específicos do projeto
 Criar base de dados relacional e Dashboard que permita:
 * (I) Analisar a eficiência portuária dos terminais.
 
