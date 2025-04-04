@@ -19,15 +19,23 @@ API 4° Semestre - Logística Noturno
 
 # Índice
 
-* [Projeto](#ANÁLISE-DE-EFICIÊNCIA-DE-TERMINAIS-PORTUÁRIOS)
-* [Equipe](#equipe)
-* [Objetivo do Projeto](#objetivo)
-* [Tecnologias Utilizadas](#tecnologias-utilizadas)
-* [Requisitos](#requisitos)
-* [Backlog do Produto](#Backlog-do-produto)
-* [Backlog das Sprints](#Backlog-das-sprints)
-* [Burndown](#Burndown)
-* [Competências Desenvolvidas](#competências-desenvolvidas)
+:small_blue_diamond: [Projeto](#ANÁLISE-DE-EFICIÊNCIA-DE-TERMINAIS-PORTUÁRIOS)
+
+:small_blue_diamond: [Equipe](#equipe)
+
+:small_blue_diamond: [Objetivo do Projeto](#objetivo)
+
+:small_blue_diamond: [Tecnologias Utilizadas](#tecnologias-utilizadas)
+
+:small_blue_diamond: [Requisitos](#requisitos)
+
+:small_blue_diamond: [Backlog do Produto](#Backlog-do-produto)
+
+:small_blue_diamond: [Backlog das Sprints](#Backlog-das-sprints)
+
+:small_blue_diamond: [Burndown](#Burndown)
+
+:small_blue_diamond: [Competências Desenvolvidas](#competências-desenvolvidas)
 
 
 
