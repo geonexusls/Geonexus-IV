@@ -69,7 +69,7 @@ Criar base de dados relacional e Dashboard que permita:
 > 
 > JiraSoftware
 > 
-> PowerBi
+> PowerBI
 > 
 > GitHub
 >
@@ -141,14 +141,15 @@ Sprint | Previsão de Conclusão | Status|
 
 ## Protótipo Sprint 2
 
-
+EM BREVE
 
 ## Protótipo Sprint 3
 
-
+EM BREVE
 
 ## Protótipo Sprint 4
 
+EM BREVE
 
 # Requisitos
 
@@ -183,10 +184,13 @@ Sprint | Previsão de Conclusão | Status|
 ![Texto alternativo](https://github.com/geonexusls/Geonexus-IV/blob/1ff6829465f83f221fe2df7d5974ee5881d863d9/%7B9AADD58B-A8A6-4F37-9467-3D84D9DAFBA8%7D.png?raw=true)
 
  ### 2ª - Sprint
+![Texto alternativo](https://github.com/geonexusls/Geonexus-IV/blob/ca217716b97e0bd2719c0c08bc0ff31aa837bbfa/Documentos/2.png?raw=true)
 
 ### 3ª - Sprint
+![Texto alternativo](https://github.com/geonexusls/Geonexus-IV/blob/94c93ef6d2ecc2a52132254d54d75856f9151117/Documentos/3.png?raw=true)
 
 ### 4ª - Sprint
+![Texto alternativo](https://github.com/geonexusls/Geonexus-IV/blob/484459fa444c4310def84e1d0b3734c8c12848ce/Documentos/4.png?raw=true)
 
 ### Feira de Soluções 
 
@@ -199,19 +203,19 @@ EM BREVE
 
 ### 1ª Sprint 
 
-
+EM BREVE
 
 ### 2ª Sprint
 
-
+EM BREVE
  
 ### 3ª Sprint
 
+EM BREVE
 
+### 4ª Sprint
 
-### 3ª Sprint
-
-
+EM BREVE
 
 ## Feira de Soluções
 
