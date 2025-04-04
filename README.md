@@ -21,7 +21,7 @@ API 4° Semestre - Logística Noturno
 
 * [Projeto](#ANÁLISE-DE-EFICIÊNCIA-DE-TERMINAIS-PORTUÁRIOS)
 * [Equipe](#equipe)
-* [Objetivo do Projeto](#objetivo-do-projeto)
+* [Objetivo do Projeto](#objetivo)
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
 * [Requisitos](#requisitos)
 * [Backlog do Produto](#Backlog-do-produto)
