@@ -1,7 +1,7 @@
 # ANÁLISE DE EFICIÊNCIA DE TERMINAIS PORTUÁRIOS
 
 ## Objetivo
-Este projeto tem como objetivo desenvolver uma plataforma de BI que disponha de informações sobre a eficiência portuárias nos anos de ? a ? com base no tempo de processamento nos portos do Brasil e dados específicos do setor.
+Este projeto tem como objetivo desenvolver uma plataforma de BI que disponha de informações sobre a eficiência portuárias nos anos de 2023 a 2024 com base no tempo de processamento nos portos do Brasil e dados específicos do setor.
 
 ## Aprendizado por Projeto Integrador (API) 
 
