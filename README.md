@@ -180,6 +180,7 @@ Sprint | Previsão de Conclusão | Status|
 
 
  ### 1ª - Sprint
+![Texto alternativo](9AADD58B-A8A6-4F37-9467-3D84D9DAFBA8.png)
 
  ### 2ª - Sprint
 
