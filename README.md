@@ -137,7 +137,7 @@ Sprint | Previsão de Conclusão | Status|
 
 ## Protótipo Sprint 1
 
-
+![Texto alternativo](https://github.com/geonexusls/Geonexus-IV/blob/e980c5623d5e7c4fa2083fe0d6778796bf49e505/Documentos/IMG_1186.png?raw=true)
 
 ## Protótipo Sprint 2
 
