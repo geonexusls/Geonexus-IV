@@ -111,9 +111,11 @@ Sprint | Previsão de Conclusão | Status|
 
 | Tarefa                      | Responsável           |
 |-----------------------------|-----------------------|
-| _A definir_                 | Fernanda + Evelyn     |
-| _A definir_                 | Raíssa + Lucas M.     |
-| _A definir_                 | Gabriela + Lucas N.   |
+| Base de Dados em SQL      | Evelyn                  |
+| Correção de Peso em Python| Fernanda + Lucas N.     |
+| Protótipo Power BI        | Ana Elisa + Lucas M.    |
+| Git Hub                   | Gabriela                |
+| Jira / Slack              | Raissa                  |
 
 ### Sprint 3
 
