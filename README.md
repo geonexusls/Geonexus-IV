@@ -203,7 +203,8 @@ EM BREVE
 
 ### 1ª Sprint 
 
-EM BREVE
+![image](https://github.com/user-attachments/assets/08680fbb-fe9d-4437-b5e8-1add0f07adc6)
+
 
 ### 2ª Sprint
 
