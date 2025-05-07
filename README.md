@@ -91,7 +91,7 @@ Criar base de dados relacional e Dashboard que permita:
 Sprint | Previsão de Conclusão | Status|
 |------|--------|------|
 |_Sprint_ 1| 04/04/2025 | <img src="https://img.shields.io/badge/Status%3A-CONCLUÍDA-green"/> |
-|_Sprint_ 2| 25/04/2025 | <img src="https://img.shields.io/badge/Status%3A-EM ANDAMENTO-blue"/> |
+|_Sprint_ 2| 09/05/2025 | <img src="https://img.shields.io/badge/Status%3A-EM ANDAMENTO-blue"/> |
 |_Sprint_ 3| 16/05/2025 | <img src="https://img.shields.io/badge/Status%3A-EM BREVE-yellow"/> |
 |Feira de Soluções | 29/05/2025 | <img src="https://img.shields.io/badge/Status%3A-EM BREVE-yellow"/> |
 |_Sprint_ 4| 27/06/2025 | <img src="https://img.shields.io/badge/Status%3A-EM BREVE-yellow"/> |
@@ -113,9 +113,10 @@ Sprint | Previsão de Conclusão | Status|
 |-----------------------------|-----------------------|
 | Base de Dados em SQL      | Evelyn                  |
 | Correção de Peso em Python| Fernanda + Lucas N.     |
-| Protótipo Power BI        | Ana Elisa + Lucas M.    |
+| Protótipo Power BI        | Lucas M.                |
 | Git Hub                   | Gabriela                |
 | Jira / Slack              | Raissa                  |
+| Desenvolvimento Relatório | Ana Elisa + Gabriela    |
 
 ### Sprint 3
 
