@@ -93,8 +93,8 @@ Sprint | Previsão de Conclusão | Status|
 |_Sprint_ 1| 04/04/2025 | <img src="https://img.shields.io/badge/Status%3A-CONCLUÍDA-green"/> |
 |_Sprint_ 2| 09/05/2025 | <img src="https://img.shields.io/badge/Status%3A-EM ANDAMENTO-blue"/> |
 |_Sprint_ 3| 16/05/2025 | <img src="https://img.shields.io/badge/Status%3A-EM BREVE-yellow"/> |
-|Feira de Soluções | 29/05/2025 | <img src="https://img.shields.io/badge/Status%3A-EM BREVE-yellow"/> |
-|_Sprint_ 4| 27/06/2025 | <img src="https://img.shields.io/badge/Status%3A-EM BREVE-yellow"/> |
+|_Sprint_ 4| 29/05/2025 | <img src="https://img.shields.io/badge/Status%3A-EM BREVE-yellow"/> |
+|_Feira de Soluções_ | 17/06/2025 | <img src="https://img.shields.io/badge/Status%3A-EM BREVE-yellow"/> |
 
 
 ## Job Rotation 
