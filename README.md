@@ -144,7 +144,8 @@ Sprint | Previsão de Conclusão | Status|
 
 ## Protótipo Sprint 2
 
-EM BREVE
+![WhatsApp Image 2025-05-09 at 17 51 47](https://github.com/user-attachments/assets/860dfa26-5002-4a9a-b149-95322cdbb556)
+
 
 ## Protótipo Sprint 3
 
@@ -211,7 +212,8 @@ EM BREVE
 
 ### 2ª Sprint
 
-EM BREVE
+![Captura de tela 2025-05-09 172356](https://github.com/user-attachments/assets/bccb9e08-739d-4f63-982d-69f1ad5f3b0a)
+
  
 ### 3ª Sprint
 
