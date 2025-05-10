@@ -175,7 +175,8 @@ EM BREVE
   
 # User Stories
  
-![Texto alternativo](https://github.com/geonexusls/Geonexus-IV/blob/ff2398b6616412ee56282c76fa0aa2d024d9d70d/Documentos/IMG_1184.PNG?raw=true)
+![image](https://github.com/user-attachments/assets/34a338d8-7697-44fb-b065-0987df7cbdab)
+
 
 
 # Backlog das Sprints
