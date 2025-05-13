@@ -91,9 +91,8 @@ Criar base de dados relacional e Dashboard que permita:
 Sprint | Previsão de Conclusão | Status|
 |------|--------|------|
 |_Sprint_ 1| 04/04/2025 | <img src="https://img.shields.io/badge/Status%3A-CONCLUÍDA-green"/> |
-|_Sprint_ 2| 09/05/2025 | <img src="https://img.shields.io/badge/Status%3A-CONCLUÍDA-green"/> |
-|_Sprint_ 3| 16/05/2025 | <img src="https://img.shields.io/badge/Status%3A-EM BREVE-yellow"/> |
-|_Sprint_ 4| 29/05/2025 | <img src="https://img.shields.io/badge/Status%3A-EM BREVE-yellow"/> |
+|_Sprint_ 2 + 3| 09/05/2025 | <img src="https://img.shields.io/badge/Status%3A-CONCLUÍDA-green"/> |
+|_Sprint_ 4| 30/05/2025 | <img src="https://img.shields.io/badge/Status%3A-EM ANDAMENTO-red"/> |
 |_Feira de Soluções_ | 17/06/2025 | <img src="https://img.shields.io/badge/Status%3A-EM BREVE-yellow"/> |
 
 
@@ -109,8 +108,8 @@ Sprint | Previsão de Conclusão | Status|
 
 ### Sprint 2
 
-| Tarefa                      | Responsável           |
-|-----------------------------|-----------------------|
+| Tarefa                    | Responsável             |
+|---------------------------|-------------------------|
 | Base de Dados em SQL      | Evelyn                  |
 | Correção de Peso em Python| Fernanda + Lucas N.     |
 | Protótipo Power BI        | Lucas M.                |
@@ -120,19 +119,20 @@ Sprint | Previsão de Conclusão | Status|
 
 ### Sprint 3
 
-| Tarefa                      | Responsável           |
-|-----------------------------|-----------------------|
-| _A definir_                 | Fernanda + Evelyn     |
-| _A definir_                 | Raíssa + Lucas M.     |
-| _A definir_                 | Gabriela + Lucas N.   |
+| Tarefa                             | Responsável                      |
+|------------------------------------|----------------------------------|
+| Back-end: Phyton + MySQL           | Fernanda + Evelyn + Lucas N.     |
+| Front-end: PowerBI                 | Raíssa + Lucas M.                |
+| Documentação e Pesquisas           | Gabriela + Ana Elisa             |
+
 
 ### Sprint 4
 
-| Tarefa                      | Responsável           |
-|-----------------------------|-----------------------|
-| _A definir_                 | Fernanda + Evelyn     |
-| _A definir_                 | Raíssa + Lucas M.     |
-| _A definir_                 | Gabriela + Lucas N.   |
+| Tarefa                             | Responsável                      |
+|------------------------------------|----------------------------------|
+| Back-end: Phyton + MySQL           | Fernanda + Evelyn + Lucas N.     |
+| Front-end: PowerBI e Data Analytics| Raíssa + Lucas M.                |
+| Documentação e análise DEA         | Gabriela + Ana Elisa             |
 
 
 
@@ -142,14 +142,9 @@ Sprint | Previsão de Conclusão | Status|
 
 ![Texto alternativo](https://github.com/geonexusls/Geonexus-IV/blob/e980c5623d5e7c4fa2083fe0d6778796bf49e505/Documentos/IMG_1186.png?raw=true)
 
-## Protótipo Sprint 2
-
-![WhatsApp Image 2025-05-09 at 17 51 47](https://github.com/user-attachments/assets/860dfa26-5002-4a9a-b149-95322cdbb556)
+## Protótipo Sprint 2 + 3
 
 
-## Protótipo Sprint 3
-
-EM BREVE
 
 ## Protótipo Sprint 4
 
