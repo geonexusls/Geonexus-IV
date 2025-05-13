@@ -144,6 +144,7 @@ Sprint | Previsão de Conclusão | Status|
 
 ## Protótipo Sprint 2 + 3
 
+![api4](https://github.com/user-attachments/assets/c3ee2980-b0b5-4927-9542-4ae2f06cb7ac)
 
 
 ## Protótipo Sprint 4
@@ -206,14 +207,10 @@ EM BREVE
 ![image](https://github.com/user-attachments/assets/08680fbb-fe9d-4437-b5e8-1add0f07adc6)
 
 
-### 2ª Sprint
+### 2ª Sprint e 3ª Sprint
 
-![Captura de tela 2025-05-09 172356](https://github.com/user-attachments/assets/bccb9e08-739d-4f63-982d-69f1ad5f3b0a)
+![Imagem1](https://github.com/user-attachments/assets/98af3d54-6003-48b2-a5f2-909e5a3d7ca7)
 
- 
-### 3ª Sprint
-
-EM BREVE
 
 ### 4ª Sprint
 
