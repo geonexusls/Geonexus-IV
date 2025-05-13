@@ -170,9 +170,24 @@ EM BREVE
 - Facilidade de manutenção futura
   
 # User Stories
- 
-![image](https://github.com/user-attachments/assets/34a338d8-7697-44fb-b065-0987df7cbdab)
 
+| Rank | Prioridade | User Story | Requisito | Estimativa (h) | Sprint |
+|------|------------|------------|-----------|----------------|--------|
+| 1    | Baixa      | Como especialista em Logística, quero receber o desenvolvimento do back-end através do Python para análise dos dados dos anos de 2023 e 2024. | RN.P.2 | 6 | 2 |
+| 2    |            | Como especialista em Logística quero receber uma base de dados limpa apenas com os dados requisitados (soja e milho). | RN.P.3 | 2 | 2 |
+| 3    | Baixa      | Como especialista em Logística, quero receber um banco de dados feito em SQL para manipulação e filtragem dos dados requisitados (soja e milho). | RN.P.2 | 5 | 2 |
+| 4    |            | Como especialista em Logística quero receber uma tela com os top 10 dos dados requisitados (Milho e Soja). | RN.P.3 | 2 | 2 |
+| 5    |            | Como especialista em Logística quero receber uma análise com o total de atracações no ano de 2023 e 2024. | RN.P.3 | 2 | 2 |
+| 6    |            | Como especialista em Logística quero receber a quantidade total das cargas movimentadas. | RN.P.3 | 2 | 2 |
+| 7    | Média      | Como especialista em Logística, quero um sistema com a implementação de busca e filtros na interface Power BI para análise personalizada. | RN.P.5 | 4 | 3 |
+| 8    | Alta       | Como especialista em Logística, quero um painel de estatísticas com gráficos interativos sobre movimentação portuária. | RN.P.3 | 5 | 3 |
+| 9    | Alta       | Como especialista em Logística, quero uma análise de eficiência entre terminais portuários com base nos tempos de operação. | RN.P.3 | 5 | 3 |
+| 10   |            | Como especialista em Logística quero um ranking de eficiência da carga transportada por mês. | RN.P.3 | 2 | 3 |
+| 11   |            | Como especialista em Logística quero telas que exibem os motivos para as paradas portuárias e a relação dessas paradas com o período do ano. | RN.P.3 | 3 | 3 |
+| 12   |            | Como especialista em Logística quero um algoritmo para calcular a eficiência dos terminais com base na infraestrutura e na carga movimentada, apresentando esse dado no painel de estatísticas. | RN.P.3 | 6 | 3 |
+| 13   | Média      | Como especialista em Logística, quero oferecer responsividade na interface do Power BI para acesso em diferentes dispositivos. | RN.P.6 | 4 | 4 |
+| 14   |            | Como especialista em Logística quero uma plataforma que seja eficiente em termos de carregamento e tempo de resposta, principalmente ao lidar com grandes volumes de dados. | RN.P.5 | 4 | 4 |
+| 15   | Média      | Como especialista em Logística, quero acessar interfaces no Power BI para visualização dos dados portuários (Top 5 Portos com maior movimentação das commodities). | RN.P.5 | 4 | 4 |
 
 
 # Backlog das Sprints
