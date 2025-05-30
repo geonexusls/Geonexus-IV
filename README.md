@@ -149,6 +149,9 @@ Sprint | Previsão de Conclusão | Status|
 
 ## Protótipo Sprint 4
 
+![api4](https://github.com/user-attachments/assets/67408bc7-9f16-45b4-89c6-a878936dd239)
+
+
 EM BREVE
 
 # Requisitos
