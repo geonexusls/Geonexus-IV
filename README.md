@@ -152,8 +152,6 @@ Sprint | Previsão de Conclusão | Status|
 ![api4](https://github.com/user-attachments/assets/67408bc7-9f16-45b4-89c6-a878936dd239)
 
 
-## Feira de Soluções
-EM BREVE
 
 # Requisitos
 
@@ -199,7 +197,6 @@ EM BREVE
 <div align="center">
 
 
-
  ### 1ª - Sprint
 ![Texto alternativo](https://github.com/geonexusls/Geonexus-IV/blob/1ff6829465f83f221fe2df7d5974ee5881d863d9/%7B9AADD58B-A8A6-4F37-9467-3D84D9DAFBA8%7D.png?raw=true)
 
@@ -210,9 +207,6 @@ EM BREVE
 ![Texto alternativo](https://github.com/geonexusls/Geonexus-IV/blob/94c93ef6d2ecc2a52132254d54d75856f9151117/Documentos/3.png?raw=true)
 
 
-### Feira de Soluções 
-
-EM BREVE
 
 </div>
 
