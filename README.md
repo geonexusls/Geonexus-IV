@@ -228,10 +228,6 @@ Sprint | Previsão de Conclusão | Status|
 ![WhatsApp Image 2025-05-30 at 20 00 23](https://github.com/user-attachments/assets/056a834d-8404-4d81-be7a-a469bcd1bcbd)
 
 
-## Feira de Soluções
-
-EM BREVE
-
 # Competências desenvolvidas
 
 ## Hard Skill (saber tecnológico)
