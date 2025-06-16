@@ -12,7 +12,7 @@ API 4° Semestre - Logística Noturno
 </p> 
   
 <p align="center">   
- <img src="https://img.shields.io/badge/Status%3A-EM ANDAMENTO-blue"/>
+ <img src="https://img.shields.io/badge/Status%3A-FINALIZADO-green"/>
  <a href="http://fatecsjc-prd.azurewebsites.net/"><img src="https://img.shields.io/badge/Instituição%3A-FATEC-red"/></a>
 </p>
 
