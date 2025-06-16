@@ -194,21 +194,58 @@ Sprint | Previsão de Conclusão | Status|
 
 # Backlog das Sprints
 
-<div align="center">
-
-
  ### 1ª - Sprint
-![Texto alternativo](https://github.com/geonexusls/Geonexus-IV/blob/1ff6829465f83f221fe2df7d5974ee5881d863d9/%7B9AADD58B-A8A6-4F37-9467-3D84D9DAFBA8%7D.png?raw=true)
 
- ### 2ª - Sprint
-![Texto alternativo](https://github.com/geonexusls/Geonexus-IV/blob/ca217716b97e0bd2719c0c08bc0ff31aa837bbfa/Documentos/2.png?raw=true)
+| Tarefa        | Descrição                                                                 |
+|---------------|---------------------------------------------------------------------------|
+| A4S-1         | Realizar tratamento primário nos dados no Python                          |
+| A4S-11        | Criar views no SQL                                                        |
+| A4S-16        | Exportar o CSV final do Google Colab                                      |
+| A4S-3         | Contagem de mercadorias                                                   |
+| A4S-5         | Importar os arquivos para o Google Drive                                  |
+| A4S-10        | Conectar o banco de dados SQL ao Power BI                                 |
+| A4S-12        | Criar um banco de dados relacional no MySQL                               |
+| A4S-27        | Workshop IHA                                                              |
+| A4S-18        | Revisão de Sprint                                                         |
+| A4S-19        | Estruturar GitHub                                                         |
+| A4S-20        | Estruturar Backlog do Produto                                             |
+| A4S-26        | TOP 10 Portos - Soja e Milho                                              |
 
-### 3ª - Sprint
-![Texto alternativo](https://github.com/geonexusls/Geonexus-IV/blob/94c93ef6d2ecc2a52132254d54d75856f9151117/Documentos/3.png?raw=true)
+ ### 2ª e 3ª - Sprint
+| Tarefa        | Descrição                                                                 |
+|---------------|---------------------------------------------------------------------------|
+| A4S-13        | Detecção do tempo médio de atracação geral dos portos                     |
+| A4S-30        | Desenvolver gráficos de movimentação de carga X tempo                     |
+| A4S-2         | Cálculo de PT e EP                                                        |
+| A4S-21        | Adaptar banco de dados em SQL para filtragem de commodities               |
+| A4S-23        | Revisão de Sprint                                                         |
+| A4S-22        | Atualizar GitHub                                                          |
+| A4S-25        | PT e EP: Produtividade nos Portos                                         |
+| A4S-14        | Analisar estrutura entre terminais                                        |
+| A4S-36        | Determinar ranking de terminais                                           |
+| A4S-16        | Disponibilizar justificativas para o período de espera no terminal        |
+| A4S-18        | Revisão de Sprint                                                         |
+| A4S-24        | Atualizar GitHub                                                          |
+| A4S-28        | Identificação de estatísticas sobre movimentação portuária                |
 
 
+### 4ª - Sprint
 
-</div>
+| Tarefa    | Descrição                                                                                         |
+|-----------|---------------------------------------------------------------------------------------------------|
+| A4S-40    | Atualização do banco de dados relacional através do MySQL                                         |
+| A4S-41    | Desenvolvimento Relatório                                                                         |
+| A4S-42    | Atualização GitHub                                                                                |
+| A4S-43    | Coleta de dados para relatório                                                                    |
+| A4S-44    | Criar gráfico burndown                                                                            |
+| A4S-45    | Pesquisa: Produtividade para elaboração do cálculo (DEA)                                          |
+| A4S-46    | MVP: Cálculo da PT e PP para comparação de produtividade entre os portos (DEA)                    |
+| A4S-47    | Pesquisa de motivos de paradas                                                                    |
+| A4S-48    | Divisão de notas                                                                                  |
+| A4S-49    | Organização das tarefas                                                                           |
+| A4S-50    | Limpeza dos dados anuários da base via Python                                                     |
+
+
 
 # Burndown
 
