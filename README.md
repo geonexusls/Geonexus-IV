@@ -252,17 +252,17 @@ Sprint | Previsão de Conclusão | Status|
 
 ### 1ª Sprint 
 
-![image](https://github.com/user-attachments/assets/08680fbb-fe9d-4437-b5e8-1add0f07adc6)
+![BD SP1](https://github.com/user-attachments/assets/1e2edc7a-6a0c-4ce6-bdfa-6ae468350931)
 
 
 ### 2ª Sprint e 3ª Sprint
 
-![Imagem1](https://github.com/user-attachments/assets/98af3d54-6003-48b2-a5f2-909e5a3d7ca7)
+![BD SP2 e 3](https://github.com/user-attachments/assets/52d2898b-0b0e-4969-b009-1e0a421ed5d7)
 
 
 ### 4ª Sprint
 
-![WhatsApp Image 2025-05-30 at 20 00 23](https://github.com/user-attachments/assets/056a834d-8404-4d81-be7a-a469bcd1bcbd)
+![BD SP4](https://github.com/user-attachments/assets/3696b4b5-5eca-4611-a487-2751c3e9e34e)
 
 
 # Competências desenvolvidas
