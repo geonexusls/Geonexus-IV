@@ -29,6 +29,8 @@ API 4° Semestre - Logística Noturno
 
 :small_blue_diamond: [Datas das Sprints](#sprints)
 
+:small_blue_diamond: [Produto Final](#Produto-Final---Plataforma-de-BI)
+
 :small_blue_diamond: [Requisitos](#requisitos)
 
 :small_blue_diamond: [Backlog do Produto](#User-stories)
@@ -151,6 +153,10 @@ Sprint | Previsão de Conclusão | Status|
 
 ![api4](https://github.com/user-attachments/assets/67408bc7-9f16-45b4-89c6-a878936dd239)
 
+
+# Produto Final - Plataforma de BI
+
+[ANÁLISE DE EFICIÊNCIA DOS TERMINAIS PORTUÁRIOS](https://app.powerbi.com/links/IBaemKZP5J?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare&bookmarkGuid=592b85e8-dc4d-4871-913d-137c70142b90)
 
 
 # Requisitos
