@@ -5,7 +5,7 @@
 
 ## Aprendizado por Projeto Integrador (API) 
 
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividade, autonomia, colaboração e entrega de resultados dos estudantes envolvidos.
+> Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividade, autonomia, colaboração e entrega de resultados dos estudantes envolvidos.
 
 <p align="center"> 
 API 4° Semestre - Logística Noturno
@@ -90,10 +90,10 @@ Criar base de dados relacional e Dashboard que permita:
 
 Sprint | Previsão de Conclusão | Status|
 |------|--------|------|
-|_Sprint_ 1| 04/04/2025 | <img src="https://img.shields.io/badge/Status%3A-CONCLUÍDA-green"/> |
-|_Sprint_ 2 + 3| 09/05/2025 | <img src="https://img.shields.io/badge/Status%3A-CONCLUÍDA-green"/> |
-|_Sprint_ 4| 30/05/2025 | <img src="https://img.shields.io/badge/Status%3A-CONCLUÍDA-green"/> |
-|_Feira de Soluções_ | 17/06/2025 | <img src="https://img.shields.io/badge/Status%3A-CONCLUÍDA-green"/> |
+|_Sprint_ 1| 04/04/2025 | <img src="https://img.shields.io/badge/Status%3A-DONE-green"/> |
+|_Sprint_ 2 + 3| 09/05/2025 | <img src="https://img.shields.io/badge/Status%3A-DONE-green"/> |
+|_Sprint_ 4| 30/05/2025 | <img src="https://img.shields.io/badge/Status%3A-DONE-green"/> |
+|_Feira de Soluções_ | 17/06/2025 | <img src="https://img.shields.io/badge/Status%3A-DONE-green"/> |
 
 
 ## Job Rotation 
@@ -194,7 +194,8 @@ Sprint | Previsão de Conclusão | Status|
 
 # Backlog das Sprints
 
- ### 1ª - Sprint
+<details>
+<summary>1ª - Sprint</summary>
 
 | Tarefa        | Descrição                                                                 |
 |---------------|---------------------------------------------------------------------------|
@@ -211,7 +212,10 @@ Sprint | Previsão de Conclusão | Status|
 | A4S-20        | Estruturar Backlog do Produto                                             |
 | A4S-26        | TOP 10 Portos - Soja e Milho                                              |
 
- ### 2ª e 3ª - Sprint
+</details>
+
+<details>
+<summary>2ª e 3ª- Sprint</summary>
 | Tarefa        | Descrição                                                                 |
 |---------------|---------------------------------------------------------------------------|
 | A4S-13        | Detecção do tempo médio de atracação geral dos portos                     |
@@ -228,8 +232,10 @@ Sprint | Previsão de Conclusão | Status|
 | A4S-24        | Atualizar GitHub                                                          |
 | A4S-28        | Identificação de estatísticas sobre movimentação portuária                |
 
+</details>
 
-### 4ª - Sprint
+<details>
+<summary>4ª- Sprint</summary>
 
 | Tarefa    | Descrição                                                                                         |
 |-----------|---------------------------------------------------------------------------------------------------|
@@ -245,7 +251,7 @@ Sprint | Previsão de Conclusão | Status|
 | A4S-49    | Organização das tarefas                                                                           |
 | A4S-50    | Limpeza dos dados anuários da base via Python                                                     |
 
-
+</details>
 
 # Burndown
 
@@ -268,8 +274,7 @@ Sprint | Previsão de Conclusão | Status|
 # Competências desenvolvidas
 
 ## Hard Skill (saber tecnológico)
-<details>
-<summary>Hard Skills desenvolvidas</summary>
+
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
@@ -278,11 +283,9 @@ Sprint | Previsão de Conclusão | Status|
 | Product Owner | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Git Projects | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
  
-</details>
 
 ## Soft Skill (saber comportamental)
-<details>
-<summary>Soft Skills desenvolvidas</summary>
+
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
@@ -292,5 +295,3 @@ Sprint | Previsão de Conclusão | Status|
 | Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Resiliência | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-
-</details>
